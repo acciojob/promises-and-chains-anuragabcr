@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 alert(`Welcome, ${nameInput}. You can vote.`);
             });
         } else {
-            alert(`Oh sorry, ${nameInput}. You aren't old enough.`);
+            alert(`Oh sorry ${nameInput}. You aren't old enough.`);
         }
     });
 });
